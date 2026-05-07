@@ -1,1 +1,0 @@
-# AI Fullstack Engineer Journey
